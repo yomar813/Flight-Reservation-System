@@ -3,8 +3,8 @@ public class Bucky {
      public static void main (String[] args) {
     	 String[] things = {"eggs","lasers","hats","pie"};
     	List<String> list1= new ArrayList<String>();
-    	// add array items to list
-    	for(String x: things)
+
+     for(String x: things)
     		list1.add(x);
     	String[] morethings = {"lasers","hats"};
     	
